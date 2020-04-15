@@ -93,6 +93,7 @@
                         <outlet property="falseButton" destination="tbn-vQ-GyC" id="7uR-UX-iGx"/>
                         <outlet property="progressBar" destination="TXm-qh-7Xg" id="vkP-cp-92e"/>
                         <outlet property="questionLabel" destination="rSI-li-mhO" id="Rdx-Oy-gYU"/>
+                        <outlet property="scoreLabel" destination="o7Y-f5-7IF" id="7aP-5z-TJU"/>
                         <outlet property="trueButton" destination="oVw-Hl-IRe" id="d2V-7X-ml0"/>
                     </connections>
                 </viewController>
